@@ -7,9 +7,19 @@
 }
 
 .sketchfab-embed-wrapper{
-    display: flex;
+    text-align: center;
     justify-content: center;
-    margin-top: 20%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.sketchfab-embed-wrapper h2{
+    padding-bottom: 30px;
+    color: #fff;
+}
+
+.sketchfab-embed-wrapper p{
+    padding-top: 30px;
+    color: #fff;
 }
